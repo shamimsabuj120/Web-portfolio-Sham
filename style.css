@@ -69,3 +69,17 @@ footer{
     text-align: center;
     font-size: 10px;
 }
+ .audio{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+ }
+table{
+        border-collapse: collapse;
+    }
+
+td,th{
+    border: 2px solid lightgray ;
+    padding: 0 10px;
+}
